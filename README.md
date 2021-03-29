@@ -1,3 +1,3 @@
 # Udacity_Machine-Learning
 
-Coursework in Udacity's Machine Learning course
+Lesson and coursework from Udacity's Machine Learning course.
